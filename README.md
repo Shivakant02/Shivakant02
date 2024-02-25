@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello Developers ! 👋
 
-<!--
-**Shivakant02/Shivakant02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack Web Developer | Student at NIT Manipur 🎓
 
-Here are some ideas to get you started:
+- Experienced in C++, HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, and Data Structures & Algorithms (DSA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Leveraging a strong foundation in web development acquired through academic pursuits at NIT Manipur and hands-on experience at Finance giants like Amazon Pay, Airtel Merchant, and Paytm for Business.
+
+- 🔍 Led dynamic teams at Amazon Pay, Airtel Merchant, and Paytm for Business, steering projects towards success and fostering an environment of innovation and collaboration.
+
+- 🌐 Passionate about creating user-centric web applications and leveraging cutting-edge technologies to deliver robust solutions.
+
+- 📚 Constantly learning and adapting to stay ahead in the ever-evolving tech landscape.
+
+### Open to new opportunities and collaborations in the realm of Full Stack Web Development.
