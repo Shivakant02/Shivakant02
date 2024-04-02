@@ -14,5 +14,4 @@
 
 ### Open to new opportunities and collaborations in the realm of Full Stack Web Development.
 
-## my tech stack is :->
-!python
+
