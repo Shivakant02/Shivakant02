@@ -13,3 +13,6 @@
 - 📚 Constantly learning and adapting to stay ahead in the ever-evolving tech landscape.
 
 ### Open to new opportunities and collaborations in the realm of Full Stack Web Development.
+
+## my tech stack is :->
+!python
